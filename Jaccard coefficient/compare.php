@@ -1,4 +1,4 @@
-<!-- check the similarity of the word content from two files using Jaccard similarity. -->
+<!-- check the similarity of the word content from two files and find Jaccard coefficient value. -->
 
 <?php 
 $file1 = fopen('one1.txt','r');
